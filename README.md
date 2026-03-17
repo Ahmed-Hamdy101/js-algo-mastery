@@ -79,7 +79,6 @@ node REAL_DEV_CHALLENGES/challenge-05-lru-cache.js
 * **Focus:** Time/Space Complexity, Memory Management, and Scalable Architecture.
 
 ---
-**Created & Maintained by Zayed Atef**
+**Created & Maintained by Ahmed Hamdy**
 *Full-Stack Developer | IT Specialist*
 
-Would you like me to help you draft a specific `CONTRIBUTING.md` or a `LICENSE` file for this repository?
