@@ -1,0 +1,24 @@
+{
+  "name": "javascript-data-structures-algorithms-study-lab",
+  "version": "1.0.0",
+  "description": "A structured JavaScript study repo for data structures, algorithms, interview prep, and real-world engineering challenges.",
+  "private": true,
+  "scripts": {
+    "quiz": "node COMPREHENSIVE_QUIZ.js",
+    "check:js": "find . -path './node_modules' -prune -o -name '*.js' -print0 | xargs -0 -n1 node --check",
+    "test": "npm run check:js",
+    "start": "node COMPREHENSIVE_QUIZ.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "javascript",
+    "algorithms",
+    "data-structures",
+    "interview-prep",
+    "study-guide",
+    "learning"
+  ],
+  "license": "MIT"
+}
