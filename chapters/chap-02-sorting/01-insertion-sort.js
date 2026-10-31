@@ -1,3 +1,10 @@
+/**
+ * Chapter 02 - Sorting
+ * Insertion sort builds a sorted section of the array one item at a time.
+ * It is simple and effective for small collections, but it becomes slower on larger inputs.
+ * Time complexity: O(n^2) in the worst case.
+ */
+
 // do insertion sort
 
 const insertionSort = (arr) => {
