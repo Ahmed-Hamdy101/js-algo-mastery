@@ -1,4 +1,10 @@
-// Map and Set  object holds key-value pairs and remembers the original insertion order of the keys. Any value (both objects and primitive values) may be used as either a key or a value.
+/**
+ * Chapter 05 - Maps
+ * JavaScript Maps store key-value pairs and preserve insertion order.
+ * A Set can be built from Map values to keep only unique entries.
+ */
+
+// Map and Set object holds key-value pairs and remembers the original insertion order of the keys. Any value (both objects and primitive values) may be used as either a key or a value.
 let G = new Map()
 G.set("one", 1)
 G.set("two", 2)
