@@ -1,3 +1,10 @@
+/**
+ * Chapter 03 - Divide and Conquer
+ * Quick sort chooses a pivot, partitions values around it, and then sorts the left and right chunks recursively.
+ * This is one of the fastest general-purpose sorting algorithms in practice.
+ * Average time complexity: O(n log n).
+ */
+
 // pivot ?
 // quick sort
 const quickSort = (array) => {
