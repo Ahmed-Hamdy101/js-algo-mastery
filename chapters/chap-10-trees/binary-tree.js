@@ -1,3 +1,8 @@
+/**
+ * Chapter 10 - Trees
+ * A binary tree has at most two children per node: left and right.
+ * This example computes the height of a tree by recursively checking each subtree.
+ */
 
 // implementation of a binary tree in JavaScript
 class Node {
