@@ -1,3 +1,9 @@
+/**
+ * Chapter 04 - Sets
+ * A set stores unique values with no duplicates.
+ * This example uses an array as the internal storage and implements common set operations.
+ */
+
 // implement sets using arrays
 class MySet {
     constructor() {
