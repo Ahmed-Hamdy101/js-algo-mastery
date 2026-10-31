@@ -1,3 +1,9 @@
+/**
+ * Chapter 06 - Stacks
+ * A stack follows Last In, First Out (LIFO) rules.
+ * Items are added and removed from the top, which makes it useful for undo flows and recursion.
+ */
+
 // stack
 class Stack {
     constructor() {
