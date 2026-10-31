@@ -1,3 +1,10 @@
+/**
+ * Chapter 02 - Sorting
+ * Merge sort divides the input in half, sorts each half recursively, and then merges the results.
+ * This is a classic divide-and-conquer algorithm with predictable performance.
+ * Time complexity: O(n log n).
+ */
+
 const stitch = (left, right) => {
     const result = [];
     while (left.length && right.length) {
