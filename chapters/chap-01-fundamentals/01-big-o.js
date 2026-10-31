@@ -1,7 +1,13 @@
+/**
+ * Chapter 01 - Fundamentals
+ * This example shows a linear scan pattern: each element is processed once.
+ * The function pairs the first value with the last value and sums them.
+ * Time complexity: O(n), because the loop runs once per item.
+ */
+
 // [1,2,3]
 
 //  [4,4,4]
-
 
 // do big O / find it
 const crossAdd = async (inputs)=>{
