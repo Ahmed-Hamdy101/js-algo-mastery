@@ -1,3 +1,10 @@
+/**
+ * Chapter 01 - Fundamentals
+ * This file implements Fibonacci recursively.
+ * Each value depends on the two previous values, which makes this a classic exponential example.
+ * Time complexity: O(2^n) for the naive recursive version.
+ */
+
 let wr = (msg = '------') => console.log(`${msg}`)
 const fibonacci = (n) => {
     // so this where we won't zero inputs
