@@ -1,3 +1,9 @@
+/**
+ * Chapter 12 - Hash Tables
+ * A hash table stores values by computing an index from the key.
+ * This allows near-constant-time lookup, insertion, and deletion on average.
+ */
+
 class HashTable{
     constructor(){
         this.table = new Array(255); 
