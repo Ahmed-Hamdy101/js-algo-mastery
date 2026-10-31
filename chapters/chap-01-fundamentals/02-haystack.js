@@ -1,3 +1,10 @@
+/**
+ * Chapter 01 - Fundamentals
+ * This example demonstrates a simple linear search through an array.
+ * It checks every value until a match is found or the array ends.
+ * Time complexity: O(n) in the worst case.
+ */
+
 // find something in array
 
 const haystack = (search, answer) => {
