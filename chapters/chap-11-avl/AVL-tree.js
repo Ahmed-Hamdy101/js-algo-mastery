@@ -1,3 +1,9 @@
+/**
+ * Chapter 11 - AVL Trees
+ * AVL trees are self-balancing binary search trees.
+ * They keep the tree height small by rotating branches when their balance factor becomes too large.
+ */
+
 // AVL Tree
 
  class Node{
