@@ -1,3 +1,9 @@
+/**
+ * Chapter 08 - Array Lists
+ * An array list stores values in a numeric index and can grow dynamically.
+ * This example simulates a simple dynamic array with resizing and index-based access.
+ */
+
 class ArrayList {
     _constructor() {
         // size of the array list
