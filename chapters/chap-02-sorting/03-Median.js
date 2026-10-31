@@ -1,3 +1,9 @@
+/**
+ * Chapter 02 - Sorting
+ * This example calculates the median of a numeric list.
+ * After sorting, the median is either the middle value or the average of the two middle values.
+ */
+
 // Q at Reddit > u have two sorted array and , i want to find median for both
 //find  median value >
 const findMedian = (list) => {
