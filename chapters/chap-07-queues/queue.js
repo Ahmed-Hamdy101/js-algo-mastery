@@ -1,3 +1,9 @@
+/**
+ * Chapter 07 - Queues
+ * A queue follows First In, First Out (FIFO) rules.
+ * This pattern is useful for scheduling jobs, processing requests, and managing breadth-first search.
+ */
+
 // queue ? First In First Out (FIFO) data structure implementation in JavaScript
 //  what is useful for ? Task scheduling, managing requests, breadth-first search in graphs, etc.
 //  i mean in web dev and apps ? Handling asynchronous data (e.g., event loops), managing print jobs, processing tasks in order
