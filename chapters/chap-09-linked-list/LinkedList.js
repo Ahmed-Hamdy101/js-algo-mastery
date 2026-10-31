@@ -1,3 +1,9 @@
+/**
+ * Chapter 09 - Linked Lists
+ * A linked list stores values in nodes, where each node points to the next one.
+ * This is useful when insertions and deletions must happen efficiently without shifting all items.
+ */
+
 // Node class represents each element in the list
 class Node {
     constructor(value) {
