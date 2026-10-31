@@ -1,3 +1,10 @@
+/**
+ * Chapter 02 - Sorting
+ * Bubble sort repeatedly swaps adjacent out-of-order values until the list is sorted.
+ * It is simple to understand, but it is not efficient for large arrays.
+ * Time complexity: O(n^2).
+ */
+
 // buble sort
 
 const Bubble_Sort = (list) => {
